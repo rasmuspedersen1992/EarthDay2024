@@ -1,0 +1,15 @@
+"Drivhusgasregnskab (i CO2-ækvivalenter) efter emissionstype, branche og"
+"tid"
+
+" "," ","1990","1991","1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022"
+"Drivhusgasser i alt, ekskl. CO2 fra afbrænding af biomasse"
+" ","I alt",83640,95848,87626,92575,94644,92981,106104,97940,97975,94511,93688,94267,95271,104138,99438,103185,120681,117251,111423,104497,102727,101583,94650,93115,86853,86882,89966,90011,92426,88967,78539,83551,80861
+" ","Heraf: International transport foretaget af danske skibe, fly og køretøjer",9516,11528,9613,12137,10423,11456,11308,12514,16924,16173,19724,18721,20775,24501,26157,34700,44479,45906,43660,39732,37420,40423,38226,34234,33241,35831,37041,38771,42127,42810,35945,39887,36768
+
+"Drivhusregnskabet er opgjort for dansk økonomi. Det adskiller sig fra "
+"indberetninger til FN (UNFCCC) bl.a. ved at medregne emissioner fra "
+"international transport. Forskelle mellem indberetninger til UNFCCC "
+"og drivhusregnskabet er opstillet i overgangstabellen MRO2. I det "
+"nyeste år er der ikke tal for fluorerede gasser og for totalen bruges "
+"tallet fra året før. "
+
